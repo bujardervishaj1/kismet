@@ -25,6 +25,7 @@ Te instalohet: sudo make suidinstall<br>
 
 #### Pas startimit mund te percillen paketat qe shkembehen ne rrethinen ku eshte duke ndegjuar Kismet
 ![Kismet](https://github.com/bujardervishaj1/kismet/blob/master/11.gif)
+![Kismet](https://github.com/bujardervishaj1/kismet/blob/master/12.png)
 
 ##### Nese percjellim nje paisje specifike mund te shohim te dhenat per te si me poshte 
 ![Kismet](https://github.com/bujardervishaj1/kismet/blob/master/9.png)
