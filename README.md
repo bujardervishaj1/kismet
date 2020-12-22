@@ -13,4 +13,8 @@ Te kompilohet: make<br>
 Te instalohet: sudo make suidinstall<br>
 
 # Perdorimi i Kismet
-### 
+
+#### Qe te ndezet Kismet per te ndegjuar duhet shkruar komanda: kismet - c en0 (ku en0 eshte emri i karteles se rrjetit qe do perdoret per te ndegjuar)
+![Kismet komanda](https://github.com/bujardervishaj1/kismet/blob/master/6.png)
+#### Pas startimit te Kismet navigojmi te http://localhost:2501 ku shfaqet "pop up" per te i vendosur kredencialet
+![Kismet komanda](https://github.com/bujardervishaj1/kismet/blob/master/2.png)
