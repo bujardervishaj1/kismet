@@ -21,6 +21,8 @@ Dronet Kismet-et jane te "vegjel". Secili e perdore konfigurimet e veta, duke de
 #### Ne "interface" mund te konfigurohen "settings" te ndryshem si ne fotot me poshte
 ![Kismet](https://github.com/bujardervishaj1/kismet/blob/master/3.png)
 ![Kismet](https://github.com/bujardervishaj1/kismet/blob/master/4.png)
+Kismet ka disa opsione kur mberrijme te prezentimi i te dhenave. Se pari mund te zgjedhim se cilat informata dojme qe te shfaqen ne interface (P.Sh. SSID, BSSID, CHANEL, Encryption, etj.), gjithashtu mund te zgjedhim nese dojme qe ta sortojme vargun e informatave qe na jep kismet, ne baze te ndonjeres nga kolonat e shfaqura ne figuren.<br>
+Gjithashtu njera nder mundesite qe ofron kismet eshte paraqitja e GPS lokacioneve te paisjeve qe jane duke zhvilluar trafik.
 ![Kismet](https://github.com/bujardervishaj1/kismet/blob/master/5.png)
 
 #### Pas startimit mund te percillen paketat qe shkembehen ne rrethinen ku eshte duke degjuar Kismet
@@ -30,6 +32,8 @@ Dronet Kismet-et jane te "vegjel". Secili e perdore konfigurimet e veta, duke de
 ##### Nese percjellim nje paisje specifike mund te shohim te dhenat per te si me poshte 
 ![Kismet](https://github.com/bujardervishaj1/kismet/blob/master/9.png)
 ![Kismet](https://github.com/bujardervishaj1/kismet/blob/master/10.png)
+<br>
+Njera pike interesante qe vlene te ceket eshte gjetja e "Access points" te cilet SSID nuk jane duke e bere "broadcast", d.m.th. kismet mund qe ti identifikoje edhe ato "Access points" te cilet nuk kane ndonje emer si dhe mund ti monitoroje, kjo vlene te ceket pikerisht se "Access points" te cilet jane hidden jane me me interes qe te investigohen! 
 
 # Referencat
 * https://www.kismetwireless.net/docs/howto/osx/?fbclid=IwAR0Zlsa9ANCsrC87BIW-ty4U-SDGiCQvnPWX00aSBp_zqKzDnFZrcuahnfs
