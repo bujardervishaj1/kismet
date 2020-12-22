@@ -35,6 +35,12 @@ Gjithashtu njera nder mundesite qe ofron kismet eshte paraqitja e GPS lokacionev
 <br>
 Njera pike interesante qe vlene te ceket eshte gjetja e "Access points" te cilet SSID nuk jane duke e bere "broadcast", d.m.th. kismet mund qe ti identifikoje edhe ato "Access points" te cilet nuk kane ndonje emer si dhe mund ti monitoroje, kjo vlene te ceket pikerisht se "Access points" te cilet jane hidden jane me me interes qe te investigohen! 
 
+## Kontribuesit
+
+1. Bujar Dervishaj
+2. Jon Klinaku
+3. Urim Zymberi
+
 # Referencat
 * https://www.kismetwireless.net/docs/howto/osx/?fbclid=IwAR0Zlsa9ANCsrC87BIW-ty4U-SDGiCQvnPWX00aSBp_zqKzDnFZrcuahnfs
 * https://www.kismetwireless.net/docs/readme/starting_kismet/?fbclid=IwAR3xMFBk9IZqs8_Yq4nRSknqU6GsD9tREIWoFOB9k1eiuso6J2wIhLq3M9s
