@@ -30,3 +30,9 @@ Dronet Kismet-et jane te "vegjel". Secili e perdore konfigurimet e veta, duke de
 ##### Nese percjellim nje paisje specifike mund te shohim te dhenat per te si me poshte 
 ![Kismet](https://github.com/bujardervishaj1/kismet/blob/master/9.png)
 ![Kismet](https://github.com/bujardervishaj1/kismet/blob/master/10.png)
+
+# Referencat
+* https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.kismetwireless.net%2Fdocs%2Fhowto%2Fosx%2F%3Ffbclid%3DIwAR0FKTaWR5P3MWzgfvmgwd7ahpGAGNDFzRvfhXClcdV6K4CROv3rUv-Xixo&h=AT0df_Ay5AVYVCGuq3PVEdUgY-ztjasN3yw0sm7-9o2XpzEZiVpb8vG4_gYui4kmmSrdMHse6NJWY-PHIaXa3XfGPLgKCXaIfiC0qi0W1gTwg_8zwwEgeTl1-mBukzloWIY
+* https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.kismetwireless.net%2Fdocs%2Freadme%2Fstarting_kismet%2F%3Ffbclid%3DIwAR3xMFBk9IZqs8_Yq4nRSknqU6GsD9tREIWoFOB9k1eiuso6J2wIhLq3M9s&h=AT0df_Ay5AVYVCGuq3PVEdUgY-ztjasN3yw0sm7-9o2XpzEZiVpb8vG4_gYui4kmmSrdMHse6NJWY-PHIaXa3XfGPLgKCXaIfiC0qi0W1gTwg_8zwwEgeTl1-mBukzloWIY
+* https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.linux.com%2Fnews%2Fintroduction-kismet-packet-sniffer%2F%3Ffbclid%3DIwAR0pGM8ib6N3LC-4QEjPYOtCjB1-E9OXNve4d6aWU_9mA6P7IJ7T1zrgeDo&h=AT0df_Ay5AVYVCGuq3PVEdUgY-ztjasN3yw0sm7-9o2XpzEZiVpb8vG4_gYui4kmmSrdMHse6NJWY-PHIaXa3XfGPLgKCXaIfiC0qi0W1gTwg_8zwwEgeTl1-mBukzloWIY
+
