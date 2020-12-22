@@ -17,4 +17,15 @@ Te instalohet: sudo make suidinstall<br>
 #### Qe te ndezet Kismet per te ndegjuar duhet shkruar komanda: kismet - c en0 (ku en0 eshte emri i karteles se rrjetit qe do perdoret per te ndegjuar)
 ![Kismet komanda](https://github.com/bujardervishaj1/kismet/blob/master/6.png)
 #### Pas startimit te Kismet navigojmi te http://localhost:2501 ku shfaqet "pop up" per te i vendosur kredencialet
-![Kismet komanda](https://github.com/bujardervishaj1/kismet/blob/master/2.png)
+![Kismet kredencialet](https://github.com/bujardervishaj1/kismet/blob/master/2.png)
+#### Ne "interface" mund te konfigurohen settings-at e ndryshem si ne fotot me poshte
+![Kismet](https://github.com/bujardervishaj1/kismet/blob/master/3.png)
+![Kismet](https://github.com/bujardervishaj1/kismet/blob/master/4.png)
+![Kismet](https://github.com/bujardervishaj1/kismet/blob/master/5.png)
+
+#### Pas startimit mund te percillen paketat qe shkembehen ne rrethinen ku eshte duke ndegjuar Kismet
+![Kismet](https://github.com/bujardervishaj1/kismet/blob/master/11.gif)
+
+##### Nese percjellim nje paisje specifike mund te shohim te dhenat per te si me poshte 
+![Kismet](https://github.com/bujardervishaj1/kismet/blob/master/9.png)
+![Kismet](https://github.com/bujardervishaj1/kismet/blob/master/10.png)
